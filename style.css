@@ -16,7 +16,7 @@ body{
 } */
 .main-navigation{
     height: 100vh;
-    background-image: url(/img/law11.jpg);
+    background-image: url(img/law11.jpg);
      background-repeat: no-repeat;
      background-size: 100% 100%;
      background-position: cover;
