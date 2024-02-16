@@ -5,6 +5,8 @@ body{
 }
 * {
     box-sizing: border-box;
+      margin: 0;
+     padding: 0;
 }
 .main-navigation{
     height: 100vh;
@@ -331,7 +333,8 @@ h1:hover{
 }
 /*footer  */
 footer{
-    margin-top:100px;
+    margin:0px;
+    padding:0;
 }
 .footer-Grird1x4{
     display: grid;
