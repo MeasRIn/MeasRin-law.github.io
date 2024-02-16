@@ -155,7 +155,7 @@ span{
 @media screen and (max-width:400px){
     .main-feature{
         margin-top: 2rem;
-        height: 180vh;
+        height: 300vh;
     }
    .feature{
         display: grid;
@@ -204,7 +204,7 @@ h1:hover{
 }
 @media screen and (max-width:950px){
     .container{
-        height: 120vh;
+        height: 140vh;
     }
    .Grird1x2{
     text-align: center;
@@ -215,7 +215,7 @@ h1:hover{
 }
 @media screen and (max-width:768px){
     .container{
-        height: 130vh;
+        height: 150vh;
     }
    .Grird1x2{
     text-align: center;
@@ -225,7 +225,7 @@ h1:hover{
 }
 @media screen and (max-width:400px){
     .container{
-        height: 100vh;
+        height: 110vh;
     }
    .Grird1x2{
     text-align: center;
@@ -292,7 +292,7 @@ h1:hover{
 }
 @media screen and (max-width:950px){
     .main-infor-contain{
-        height: 60vh;
+        height: 150vh;
     }
    .info-contain{
         display: grid;
