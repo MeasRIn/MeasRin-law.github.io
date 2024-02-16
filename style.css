@@ -388,9 +388,6 @@ footer{
     padding: 10px 0;
 }
 @media screen and (max-width:950px){
-/*     footer{
-        margin-top: 50px;
-    } */
     .footer-Grird1x4{
         grid-template-columns: 1fr 1fr;
     }
@@ -401,9 +398,6 @@ footer{
     }
 }
 @media screen and (max-width:400px){
-/*     footer{
-        height: 110vh;
-    } */
     .footer-Grird1x4{
         grid-template-columns: 1fr;
     }
