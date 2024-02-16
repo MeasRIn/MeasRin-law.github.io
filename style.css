@@ -136,7 +136,7 @@ span{
 @media screen and (max-width:768px){
     .main-feature{
         margin-top: 2rem;
-        height: 120vh;
+        height: 150vh;
     }
    .feature{
         display: grid;
@@ -292,7 +292,7 @@ h1:hover{
 }
 @media screen and (max-width:950px){
     .main-infor-contain{
-        height: 120vh;
+        height: 100vh;
     }
    .info-contain{
         display: grid;
@@ -366,9 +366,9 @@ footer{
     padding: 10px 0;
 }
 @media screen and (max-width:950px){
-    footer{
-        margin-top: 80px;
-    }
+/*     footer{
+        margin-top: 50px;
+    } */
     .footer-Grird1x4{
         grid-template-columns: 1fr 1fr;
     }
