@@ -68,7 +68,7 @@ a{
     }
 }
  .main-section{
-    margin-top: 280px;
+    margin-top: 200px;
     width:100%;
 }
 .hero-section {
@@ -237,9 +237,8 @@ h1:hover{
   
 } 
 .main-infor-contain{
-    margin-top:100px;
     height: 110vh;
-    background-color: rgb(238, 239, 240);
+ 
 }
 .info-title{
     text-align: center;
