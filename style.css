@@ -125,6 +125,9 @@ span{
     .main-info{
         display: block;
     }
+    .main-feature{
+        height:100vh;
+    }
     .feature{
         display: grid;
         grid-template-columns: 1fr 1fr;
