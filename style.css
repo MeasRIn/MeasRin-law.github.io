@@ -84,7 +84,7 @@ a{
 }
 
 .main-feature{
-    height: 100vh;
+    height: 80vh;
 }
 .main-feature>h1{
     text-align: center;
@@ -179,7 +179,7 @@ span{
     transition: 0.5s;
 }
 .container{
-    height: 60vh;
+    height: 80vh;
 }
 .Grird1x2{
     display: grid;
