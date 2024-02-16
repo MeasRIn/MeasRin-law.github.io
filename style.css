@@ -312,7 +312,9 @@ h1:hover{
     }
 }
 /*footer  */
-
+footer{
+    margin-top:100px;
+}
 .footer-Grird1x4{
     display: grid;
     grid-template-columns: repeat(4,1fr);
