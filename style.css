@@ -204,7 +204,7 @@ h1:hover{
 }
 @media screen and (max-width:950px){
     .container{
-        height: 140vh;
+        height: 100vh;
     }
    .Grird1x2{
     text-align: center;
