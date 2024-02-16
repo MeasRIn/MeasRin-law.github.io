@@ -292,7 +292,7 @@ h1:hover{
 }
 @media screen and (max-width:950px){
     .main-infor-contain{
-        height: 150vh;
+        height: 120vh;
     }
    .info-contain{
         display: grid;
@@ -367,7 +367,7 @@ footer{
 }
 @media screen and (max-width:950px){
     footer{
-        margin-top: 350px;
+        margin-top: 80px;
     }
     .footer-Grird1x4{
         grid-template-columns: 1fr 1fr;
