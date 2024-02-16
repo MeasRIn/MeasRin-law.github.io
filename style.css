@@ -84,8 +84,7 @@ a{
 }
 
 .main-feature{
-    margin:100px;
-    height: 90vh;
+    height: 100vh;
     width:100%;
     background-color: rgb(249, 248, 247);
 }
