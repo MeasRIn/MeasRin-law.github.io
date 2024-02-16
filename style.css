@@ -157,6 +157,12 @@ span{
         margin-top: 2rem;
         height: 300vh;
     }
+    .logo{
+       margin-left: 0;
+    }
+    .bar-icon{
+        margin-right:0;
+    }
    .feature{
         display: grid;
         grid-template-columns:1fr;
