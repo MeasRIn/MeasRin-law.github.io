@@ -392,6 +392,9 @@ footer{
     }
 }
 @media screen and (max-width:400px){
+    footer{
+        height: 110vh;
+    }
     .footer-Grird1x4{
         grid-template-columns: 1fr;
     }
